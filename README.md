@@ -16,8 +16,10 @@ Using the np.linalg.inv(), we can find the solution
 
 Step 4:
 End the program
+```
 ## NAME : DEVADARSHAN A S
 ## REG NO : 212222110007
+```
 ## Program:
 ```
 import numpy as np
